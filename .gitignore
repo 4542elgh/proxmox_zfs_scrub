@@ -1,0 +1,6 @@
+.env
+.venv
+*.vault
+**/__pycache__
+proxmox_zfs_scrub.service
+proxmox_zfs_scrub.timer
